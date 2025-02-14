@@ -6,6 +6,13 @@ body {
     margin: 0;
     background-color: #db29a6;
 }
+audio {
+    position: absolute;
+    top: 20px; /* Ajusta la distancia desde la parte superior */
+    right: 11px; /* Ajusta la distancia desde la derecha */
+    width: 200px; /* Ajusta el ancho del reproductor */
+    height: 30px; /* Ajusta la altura del reproductor */
+}
 
 .container {
     text-align: center;
